@@ -25,7 +25,7 @@
 
 ## Разметка датасета
 
-Размеченный [датасет](https://github.com/Dannikk/Intelligent_Placer/blob/develop/repr/data.csv) представляет собой три столбца: Image - имя изображения, находящегося в папке [repr](https://github.com/Dannikk/Intelligent_Placer/tree/develop/repr), Polygon - индекс полигона в файле [repr/polygons.json](https://github.com/Dannikk/Intelligent_Placer/blob/develop/repr/polygons.json), Label - помещается ли набор объектов в многоугольник (=0|1), (0 - False, 1 - True).
+Размеченный [датасет](https://github.com/Dannikk/Intelligent-Placer/blob/develop/repr/data.csv) представляет собой три столбца: Image - имя изображения, находящегося в папке [repr](https://github.com/Dannikk/Intelligent-Placer/tree/develop/repr), Polygon - индекс полигона в файле [repr/polygons.json](https://github.com/Dannikk/Intelligent-Placer/blob/develop/repr/polygons.json), Label - помещается ли набор объектов в многоугольник (=0|1), (0 - False, 1 - True).
 
 ## Объекты
 
@@ -43,7 +43,7 @@ Bluetooth адаптер:
 
 ![](./images/2_ob.jpg)
 
-Остальные можно посмотреть [здесь](https://github.com/Dannikk/Intelligent_Placer/tree/develop/images).
+Остальные можно посмотреть [здесь](https://github.com/Dannikk/Intelligent-Placer/tree/develop/images).
 
 ## Входные данные
 
@@ -55,4 +55,4 @@ Bluetooth адаптер:
 
 ![](./repr/9ex.jpg)
 
-Остальные [здесь](https://github.com/Dannikk/Intelligent_Placer/tree/develop/repr).
+Остальные [здесь](https://github.com/Dannikk/Intelligent-Placer/tree/develop/repr).
